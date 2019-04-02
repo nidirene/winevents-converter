@@ -1,0 +1,18 @@
+4768.xml	Kerberos authentication ticket was requested (TGT)
+4769.xml	Kerberos service ticket was requested (TGS)
+4770.xml	Kerberos service ticket was renewed
+4776.xml	The domain controller attempted to validate the credentials for an account
+4624.xml	An account was successfully logged on
+4625.xml	An account failed to logon on
+4634.xml	An account was logged on
+4647.xml	User initiated logon
+4648.xml	A logon was attempted using explicit credentials
+4672.xml	Special privileges assigned to a new logon
+4800.xml	The workstation was locked
+4801.xml	The workstation was unlocked
+4802.xml	The screensaver was invoked
+4803.xml	The screensaver was dismissed
+4688.xml	Process start
+4689.xml	Process end
+4608.xml	Windows is starting up
+1100.xml	Event logging service has shut down (often recorded instead of EventID 4609)
