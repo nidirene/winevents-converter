@@ -74,8 +74,4 @@ func main() {
 		log.Fatal(err)
 	}
 
-	// for _, e := range event.EventData.Data {
-	// 	fmt.Printf("name=%s value=%s\n", e.Name, e.Value)
-	// }
-
 }
