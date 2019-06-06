@@ -66,7 +66,10 @@ func main() {
 		}
 		fmt.Println("-------------------------------------------------------------------------------")
 		fmt.Println(events[1:])
+		name := strings.Replace(events[0], ".xml", "", -1)
+		_ = ioutil.WriteFile(fmt.Sprintf("out/event_%s.json", name), jb, 0644)
 		fmt.Println(string(jb))
+
 		fmt.Println()
 	}
 
