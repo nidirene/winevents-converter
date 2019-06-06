@@ -1,6 +1,6 @@
 ## Windows Event Converter
 
-This converter Microsoft XML event to Microfocus’ WiNC JSON record. The following are the list of events to be displayed.
+This convert Microsoft XML event to Microfocus’ WiNC JSON record. The following are the list of events to be converted.
 ```
 $ winevents-converter
 ```  
